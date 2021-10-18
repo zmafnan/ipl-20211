@@ -6,7 +6,7 @@ Lakukan langkah-langkah berikut:
 5. Commit kemudian Push.
 6. Click the Compare & pull request button.
 7. Click Create pull request to open a new pull request.
-
--------------------------------------------------
-
 3411141151 Rangga Kusumah Cokro Suyitno
+3411191088 Aisyah Nur Hasna DSE-B
+3411191071 Muhammad Munzir R.M - DSE B
+3411191053 Fillah Restu Kurnia DSE-B
