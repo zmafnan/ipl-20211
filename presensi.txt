@@ -1,0 +1,8 @@
+Lakukan langkah-langkah berikut:
+1. Fork Repository ini.
+2. Clone repository yang sudah difork ke local system Anda.
+3. Buatlah Branch baru.
+4. Tambahkan Pada file berikut, NIM - Nama dan Kelas Anda.
+5. Commit kemudian Push.
+6. Click the Compare & pull request button.
+7. Click Create pull request to open a new pull request.
